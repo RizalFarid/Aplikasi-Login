@@ -1,5 +1,5 @@
 # Aplikasi-Login
-Seuah aplikasi dengan fitur login.
+Sebuah aplikasi dengan fitur login.
 
 Alur Fitur Login:
 1. Memasukkan email dan password
